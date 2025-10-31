@@ -4,7 +4,7 @@ background-color: darkCyan;
 }
 button {
   padding: 10px 20px;
-  background-color: green;
+  background-color: red;
   color: white;
   border: none;
   border-radius: 5px;
@@ -14,5 +14,4 @@ button {
 
 button:hover {
   background-color: darkgreen;
-  color: black;
 }
